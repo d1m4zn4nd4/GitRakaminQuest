@@ -10,6 +10,7 @@ public class JavaFunction {
 
         addition(x,y);
         SubstractionFunc(z,x);
+        addition(y,z);
     }
 
     public static int addition(int a, int b) {
